@@ -1,13 +1,13 @@
 # Stock-Price-Prediction
 Stock Price Prediction using different types of Regression techniques and the impact of News, Govt. Policies and current affairs on Stock Prices.
 
-##Install Dependecies
+## Install Dependecies
 
 ```
 pip install -r requirements.txt
 ```
 
-##Enable Python 3
+## Enable Python 3
 ```
 sudo ipython kernel install
 ```
