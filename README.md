@@ -75,3 +75,14 @@ sudo ipython kernel install
 ```
 sudo ipython3 kernelspec install-self
 ```
+
+## Running Jupyter Server
+
+```
+jupyter notebook
+```
+
+## Python Notebook
+
+1. Navigate to Python Notebook directory
+1. Open Stock Price Prediction.ipynb
